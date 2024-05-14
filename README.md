@@ -3,6 +3,7 @@ mobile com.chriscatto.app Next.js 14 &amp; capacitor based
 
 ## com.chriscatto.app
 
+* branch feat/cc-002 is adding capacitor
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
