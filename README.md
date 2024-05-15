@@ -5,6 +5,12 @@ mobile com.chriscatto.app Next.js 14 &amp; capacitor based
 
 * branch feat/cc-002 is adding capacitor
 
+These are the images of the app running in the emulators:
+![ChrisCatto.com NextJS Mobile Capacitor Ios Screenshot](https://github.com/ccatto/media-files/blob/main/NextJS/ChrisCatto-NextJS-Mobile-Capacitor-IOS-ScreenShot.png?raw=true)
+
+![ChrisCatto.com NextJS Mobile Capacitor Android Screenshot](https://github.com/ccatto/media-files/blob/main/NextJS/ChrisCatto-NextJS-Mobile-Capacitor-Android-ScreenShot.png.png?raw=true)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
