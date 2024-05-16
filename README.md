@@ -4,6 +4,10 @@ mobile com.chriscatto.app Next.js 14 &amp; capacitor based
 ## com.chriscatto.app
 
 * branch feat/cc-002 is adding capacitor
+* branch create-next-app-capacitor is a working branch of create-nextjs-app with Capacitor added in;
+* branch feat/cc-003 adding ionic
+* branch feat/cc-004 I was going to use ionic UI components but I shelved that;
+* branch feat/cc-005 capacitor & next.js only no ionic ui components; 
 
 These are the images of the app running in the emulators:
 ![ChrisCatto.com NextJS Mobile Capacitor Ios Screenshot](https://github.com/ccatto/media-files/blob/main/NextJS/ChrisCatto-NextJS-Mobile-Capacitor-IOS-ScreenShot.png?raw=true)
